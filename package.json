@@ -1,5 +1,5 @@
 {
-  "name": "@dot.indonesia/po-gen",
+  "name": "@test.gen/test",
   "version": "2.1.2",
   "main": "index.js",
   "scripts": {
