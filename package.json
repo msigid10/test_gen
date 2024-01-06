@@ -32,9 +32,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/hadiindrawan/automation-api-generator.git"
+    "url": "https://github.com/msigid10/test_gen.git"
   },
-  "author": "Hadi Indrawan <hadiindrawan157@gmail.com> (https://github.com/hadiindrawan)",
+  "author": "",
   "license": "MIT",
   "description": "This project has created to relieve work load as SDET or Automation Test Engineer. You just export the postman collection, and run this generator to write the automation code.",
   "dependencies": {
